@@ -16,4 +16,4 @@ Backend: Node.js, Express.js and MongoDB.
 -npm start
 
 **npm run local**
-Open http://localhost:3200/ and take a look around.
+Open http://localhost:4500/ and take a look around.
